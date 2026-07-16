@@ -7,7 +7,7 @@ days: Add your itinerary
 distance: Add your route
 highest_point: Add elevation
 season: Add your dates
-map_note: Your interactive map will live here: route line, huts, transport points, water, and worthwhile detours.
+map_note: "Your interactive map will live here: route line, huts, transport points, water, and worthwhile detours."
 ---
 
 ## At a glance
