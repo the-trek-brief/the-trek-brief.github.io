@@ -1,0 +1,27 @@
+---
+layout: default
+title: Practical intelligence for big mountain walks
+---
+<section class="home-hero">
+  <p class="eyebrow">THE TREK BRIEF</p>
+  <h1>The details that decide a great trek.</h1>
+  <p>Practical logistics, honest route notes, coordinates, and the worthwhile detours that are too often left out.</p>
+</section>
+<section class="intro">
+  <h2>Not another trip diary.</h2>
+  <p>A growing collection of field guides for big mountain walks: how to get there, what is actually useful, and where a few extra metres can change the day.</p>
+</section>
+<section class="trek-list">
+  <div class="section-heading"><p class="eyebrow">FIELD GUIDES</p><h2>Treks</h2></div>
+  <div class="card-grid">
+    {% assign treks = site.treks | sort: 'title' %}
+    {% for trek in treks %}
+    <a class="trek-card" href="{{ trek.url | relative_url }}">
+      <p class="eyebrow">{{ trek.region }}</p>
+      <h3>{{ trek.title }}</h3>
+      <p>{{ trek.summary }}</p>
+      <span>Open guide <b>→</b></span>
+    </a>
+    {% endfor %}
+  </div>
+</section>

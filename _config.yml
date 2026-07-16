@@ -1,0 +1,13 @@
+title: The Trek Brief
+description: Practical intelligence for world-class treks.
+url: "https://the-trek-brief.github.io"
+collections:
+  treks:
+    output: true
+    permalink: /treks/:name/
+defaults:
+  - scope:
+      path: ""
+      type: treks
+    values:
+      layout: trek
