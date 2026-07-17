@@ -55,7 +55,6 @@ When I crossed, two local women were selling soda, snacks, beer, and souvenirs a
   <img src="https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038" alt="view from Apachita Pass" class="photo-preview">
 </a>
 
-https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35
 
 <a href="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" alt="view from Apachita Pass" class="photo-preview">
