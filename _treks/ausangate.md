@@ -65,3 +65,9 @@ At the campground, expect local fees of around **20 soles**.
 #### Variations
 ##### Notes
 
+.guide-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 1.5rem 0;
+}
