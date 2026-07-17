@@ -12,8 +12,7 @@ map_note: Your trek map will go here, with the route and pins for passes, camps,
 
 ## Getting there
 
-Acclimatise in Cusco.Give yourself time to explore the city, then use it as a base for acclimatisation hikes such as Rainbow Mountain or Palcoyo.
-
+Acclimatise in Cusco. Give yourself time to explore the city, then use it as a base for acclimatisation hikes such as Rainbow Mountain or Palcoyo.
 If you are reasonably fit, allow at least two days at altitude before starting Ausangate. The trek begins above **4,300 m / 14,000 ft**.
 
 **Cusco to Tinki:**
@@ -95,7 +94,7 @@ From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,10
   <img src="https://github.com/user-attachments/assets/b4ad90aa-18f8-4315-906a-2a98b8219cb0" alt="from Palomani pass" class="photo-preview">
 </a>
 
-*view from Palomani pass (Abra Palomani)
+*view from Palomani pass (Abra Palomani)*
 
 <a href="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" alt="from Palomani pass Mariposa mountain" class="photo-preview">
