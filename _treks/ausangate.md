@@ -49,6 +49,12 @@ The next day begins with the climb to **Apachita Pass (Abra Apachita)** at **4,9
 From the campsite, it is roughly **3.6 km** and **350 m / 1,200 ft** of ascent to the pass. We started around 7am. 10am were at Apachita pass. 
 When I crossed, two local women were selling soda, snacks, beer, and souvenirs at the top.
 
+*view from Apachita Pass (Abra Apachita)*
+<img width="5862" height="2940" alt="Apachita Pass" src="https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038" />
+
+<img width="4527" height="3284" alt="Apachita Pass 2" src="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" />
+
+
 From Abra Apachita, there are two options to reach Laguna Ausangate
 
 **Option 1 — via Abra Apuchata:** descend back down from the pass and continue towards **Abra Apuchata**, keeping Ausangate on your left. This route is approximately **5.8 km**.
