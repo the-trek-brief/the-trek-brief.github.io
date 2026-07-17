@@ -42,7 +42,7 @@ From the campground, walk towards Ausangate, then turn right towards **Abra La A
 
 Camp for your first night at **Laguna Pucacocha**. There camping area is here [here](https://maps.app.goo.gl/RGr6rbofDzMNC9kE7). I arrived around **4 pm**.
 
-**Day2** Laguna Pucacocha to Laguna Ausangate
+**Day2**  Laguna Pucacocha to Laguna Ausangate
 
 The next day begins with the climb to **Apachita Pass (Abra Apachita)** at **4,900 m / 16,000 ft**. This is one of the essential views of the trek.
 
@@ -56,7 +56,9 @@ From Abra Apachita, there are two options to reach Laguna Ausangate
 **Option 2 — through the valley:** continue over the pass and descend into the valley. A hill on the left blocks the view of Ausangate at first; you walk around it before reaching the lake. This route is approximately **4.3 km**.
 
 I chose **Option 2** for a slightly different view. We reached Abra Apachita around **10 am** and arrived at Laguna Ausangate around **2 pm**, so it made for an easy day.
-At the campground, expect local fees of around **20 soles**. 
+At the campground, expect local fees of around **20 soles**.
+
+
 
 
 
