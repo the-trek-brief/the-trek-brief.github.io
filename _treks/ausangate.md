@@ -108,7 +108,9 @@ We took the valley route. The photo below shows Machuraccay Lodge. Zoom in on th
   <img src="https://github.com/user-attachments/assets/3e0dc2e6-4a49-40a0-84de-d5110f89ab11" alt="from Palomani pass Mariposa mountain" class="photo-preview">
 </a>
 
+
 Then you will camp at Surapata campground. There is a hut for a local who will collect a fee and a small store. 
+
 
 *View toward Jatunhuma (Hatun Uma) while approaching Surapata campground*
 
