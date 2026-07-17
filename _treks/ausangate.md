@@ -88,6 +88,7 @@ At the campground, expect local fees of around **20 soles**.
 ### Day 3 Laguna Ausangate to Surapata campground
 
 From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,100 m. This is not an easy ascent, but the views are outstanding.
+
 *Looking back towards where we came from. Ausangate laguna hidden on the right as well as Apuchata pass, route we took previous day is on the left. Rainbow Mountain far away on the left* 
 
 <a href="https://github.com/user-attachments/assets/b4ad90aa-18f8-4315-906a-2a98b8219cb0" target="_blank" rel="noopener">
