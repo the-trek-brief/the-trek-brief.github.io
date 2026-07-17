@@ -80,13 +80,44 @@ In retrospect, I would reccomend **Option 1**, it provides nicer views and also 
 
 At the campground, expect local fees of around **20 soles**.
 
-*view of Laguna Ausangate/Ausangatecocha with Palomani Pass (Abra Palomani)in the background* 
+*view of Laguna Ausangate/Ausangatecocha with Palomani Pass (Abra Palomani) in the background* 
 <a href="https://github.com/user-attachments/assets/d095e61e-0fc1-478e-b791-90ac99f0c88a" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/d095e61e-0fc1-478e-b791-90ac99f0c88a" alt="laguna Ausangate" class="photo-preview">
 </a>
 
-### Day 3 Laguna Ausangate to 
+### Day 3 Laguna Ausangate to Surapata campground
 
+From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,100 m. This is not an easy ascent, but the views are outstanding.
+*Looking back towards where we came from. Ausangate laguna hidden on the right as well as Apuchata pass, route we took previous day is on the left. Rainbow Mountain far away on the left* 
+
+<a href="https://github.com/user-attachments/assets/b4ad90aa-18f8-4315-906a-2a98b8219cb0" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/b4ad90aa-18f8-4315-906a-2a98b8219cb0" alt="from Palomani pass" class="photo-preview">
+</a>
+
+*view from Palomani pass (Abra Palomani)
+
+<img width="4608" height="3456" alt="Mariposa Mountain" src="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" />
+
+<a href="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" alt="from Palomani pass Mariposa mountain" class="photo-preview">
+</a>
+
+Descend from the pass to Machuraccay Lodge. From there, you again have two route options as you look east. Left: a higher route over another pass. Right: the valley route.
+We took the valley route. The photo below shows Machuraccay Lodge. Zoom in on the right side to see the higher route heading left of the hill; the valley route goes right.
+
+<a href="https://github.com/user-attachments/assets/3e0dc2e6-4a49-40a0-84de-d5110f89ab11" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/3e0dc2e6-4a49-40a0-84de-d5110f89ab11" alt="from Palomani pass Mariposa mountain" class="photo-preview">
+</a>
+
+Then you will camp at Surapata campground. There is a hut for a local who will collect a fee and a small store. 
+
+*View toward Jatunhuma (Hatun Uma) while approaching Surapata campground*
+
+<img width="4355" height="3152" alt="_1010221" src="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" />
+
+<a href="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" alt="Jatunhuma, Hatun Uma" class="photo-preview">
+</a>
 
 
 #### Variations
