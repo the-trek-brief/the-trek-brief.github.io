@@ -165,11 +165,6 @@ Ask the driver to drop you at [Tinki’s main square](https://maps.app.goo.gl/zm
 </a>
 
 
-<a href="https://github.com/user-attachments/assets/245f58ea-ffbe-4d55-a0e7-c1ae015edb64" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/245f58ea-ffbe-4d55-a0e7-c1ae015edb64" alt="7 lakes" class="photo-preview">
-</a>
-
-
 <a href="https://github.com/user-attachments/assets/0d2649de-3b1a-4e8d-9bb0-32e52e65ef0d" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/0d2649de-3b1a-4e8d-9bb0-32e52e65ef0d" alt="7 lakes" class="photo-preview">
 </a>
@@ -194,10 +189,6 @@ Ask the driver to drop you at [Tinki’s main square](https://maps.app.goo.gl/zm
   <img src="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" alt="7 lakes" class="photo-preview">
 </a>
 
-
-<a href="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" alt="7 lakes" class="photo-preview">
-</a>
 
 <a href="https://github.com/user-attachments/assets/3125c7a7-e866-4655-a574-a49c8172d62d" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/3125c7a7-e866-4655-a574-a49c8172d62d" alt="7 lakes" class="photo-preview">
