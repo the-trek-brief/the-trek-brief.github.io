@@ -50,9 +50,16 @@ From the campsite, it is roughly **3.6 km** and **350 m / 1,200 ft** of ascent t
 When I crossed, two local women were selling soda, snacks, beer, and souvenirs at the top.
 
 *view from Apachita Pass (Abra Apachita)*
-<img width="5862" height="2940" alt="Apachita Pass" src="https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038" />
 
-<img width="4527" height="3284" alt="Apachita Pass 2" src="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" />
+<a href="https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038" alt="view from Apachita Pass" class="photo-preview">
+</a>
+
+https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35
+
+<a href="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" alt="view from Apachita Pass" class="photo-preview">
+</a>
 
 
 From Abra Apachita, there are two options to reach Laguna Ausangate
@@ -65,7 +72,7 @@ I chose **Option 2** for a slightly different view. We reached Abra Apachita aro
 At the campground, expect local fees of around **20 soles**.
 
 
-
+<img width="4527" height="3284" alt="Apachita Pass 2" src="https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35" />
 
 
 #### Variations
