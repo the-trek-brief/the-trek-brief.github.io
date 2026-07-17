@@ -80,7 +80,7 @@ In retrospect, I would reccomend **Option 1**, it provides nicer views and also 
 
 At the campground, expect local fees of around **20 soles**.
 
-*view of Laguna Ausangate/Ausangatecocha with Palomani Pass (Abra Palomani) in the background* 
+*view of Laguna Ausangate/Ausangatecocha with Palomani Pass (Abra Palomani)  in the background* 
 <a href="https://github.com/user-attachments/assets/d095e61e-0fc1-478e-b791-90ac99f0c88a" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/d095e61e-0fc1-478e-b791-90ac99f0c88a" alt="laguna Ausangate" class="photo-preview">
 </a>
