@@ -96,8 +96,6 @@ From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,10
 
 *view from Palomani pass (Abra Palomani)
 
-<img width="4608" height="3456" alt="Mariposa Mountain" src="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" />
-
 <a href="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/baaf1566-0340-4039-b27f-a55301f5d969" alt="from Palomani pass Mariposa mountain" class="photo-preview">
 </a>
@@ -112,8 +110,6 @@ We took the valley route. The photo below shows Machuraccay Lodge. Zoom in on th
 Then you will camp at Surapata campground. There is a hut for a local who will collect a fee and a small store. 
 
 *View toward Jatunhuma (Hatun Uma) while approaching Surapata campground*
-
-<img width="4355" height="3152" alt="_1010221" src="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" />
 
 <a href="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" alt="Jatunhuma, Hatun Uma" class="photo-preview">
