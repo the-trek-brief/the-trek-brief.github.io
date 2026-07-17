@@ -102,6 +102,7 @@ From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,10
 
 Descend from the pass to Machuraccay Lodge. From there, you again have two route options as you look east. Left: a higher route over another pass. Right: the valley route.
 We took the valley route. The photo below shows Machuraccay Lodge. Zoom in on the right side to see the higher route heading left of the hill; the valley route goes right.
+Valley route is easier but high route is closer to glaciers and lakes
 
 <a href="https://github.com/user-attachments/assets/3e0dc2e6-4a49-40a0-84de-d5110f89ab11" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/3e0dc2e6-4a49-40a0-84de-d5110f89ab11" alt="from Palomani pass Mariposa mountain" class="photo-preview">
@@ -116,6 +117,116 @@ Then you will camp at Surapata campground. There is a hut for a local who will c
 <a href="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" alt="Jatunhuma, Hatun Uma" class="photo-preview">
 </a>
+
+### Day 4 Surapata campground to 7 lakes
+
+From Surapata campground you will go up Jampa pass. Which is relatively not hard ascent. From 4600m slowly to 5050m. Magnificent views on the right but not very lucky for us as weather was turning bad.
+
+*approaching Jampa pass*
+<a href="https://github.com/user-attachments/assets/a027499e-d0da-49e7-b5e3-27c4b0f96ef3" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/a027499e-d0da-49e7-b5e3-27c4b0f96ef3" alt="Jatunhuma, Hatun Uma" class="photo-preview">
+</a>
+
+From here, the route begins descending towards the 7 Lakes area. It is technically possible to continue directly to Pacchanta—everything is downhill from Jampa Pass—but I would not rush it.
+Instead, stay at this campsite. It has water and a toilet, making it a more comfortable stop than pushing farther down into more crowded campsites.
+When I stayed there, a local woman was looking after alpacas and selling souvenirs she had made. No camping fee was collected, and there was only one other group staying with us. It also provides a nice views from the ridge where you came from. 
+
+**Do not skip the following ridge viewpoint**
+This is an **absolute must-do** viewpoint. If you have time, visit it on the afternoon you reach camp and return to the campsite. Otherwise, go via the viewpoint the following morning on your way to Pacchanta.
+From the [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6), you can see the entire landscape around you and all of the lakes in the area as well as Ausangate mountain. For the full effect, see [the view on a clear sunny day](https://maps.app.goo.gl/yyPa47onHxK6A2jDA).
+We had snow and poor weather, so we did not get the clear view.
+
+### Day 5 7 lakes to Pacchanta-Tinki-Cusco
+
+As mentioned above - visit the view point [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6). It's totaly better to visit it rather than to descend to lakes and walk by them. 
+From here it's a quick descent to Pacchanta. You will meet a lot of people going up to 7 lakes for a day hike. In Pacchanta you can get some food.  
+In Pacchanta, get food at any restaurant or hotel, then ask them to arrange a taxi to Tinki. They can call one for you; expect it to arrive in **30–40 minutes**. A full car costs roughly **30–50 soles**.
+Ask the driver to drop you at [Tinki’s main square](https://maps.app.goo.gl/zm3b3VBtyiSSiCTH9), where you originally arrived. From there, ask around for the bus back to Cusco.
+
+*It snowed for us overnight. These were the views*
+
+<a href="https://https://github.com/user-attachments/assets/219a1509-2382-456d-bc23-617cb10b3c49" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/219a1509-2382-456d-bc23-617cb10b3c49" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/5b053988-f096-4648-9d3a-5bb952396c31" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/5b053988-f096-4648-9d3a-5bb952396c31" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/245f58ea-ffbe-4d55-a0e7-c1ae015edb64" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/245f58ea-ffbe-4d55-a0e7-c1ae015edb64" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/226cf269-6ef0-41c9-9c99-62dd1078f2c0" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/226cf269-6ef0-41c9-9c99-62dd1078f2c0" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/245f58ea-ffbe-4d55-a0e7-c1ae015edb64" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/245f58ea-ffbe-4d55-a0e7-c1ae015edb64" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/0d2649de-3b1a-4e8d-9bb0-32e52e65ef0d" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/0d2649de-3b1a-4e8d-9bb0-32e52e65ef0d" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/ff57ae6d-32e4-4ab3-adec-81900e53ca0f" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/ff57ae6d-32e4-4ab3-adec-81900e53ca0f" alt="7 lakes" class="photo-preview">
+</a>
+
+
+## More photos
+
+<a href="https://github.com/user-attachments/assets/e9422f18-a725-457b-b63b-22869dc0ac2d" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/e9422f18-a725-457b-b63b-22869dc0ac2d" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/cfea5a8f-0e51-4d8b-9a2e-21468c497927" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/cfea5a8f-0e51-4d8b-9a2e-21468c497927" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/c12697ac-fc90-4fe4-9a98-acf137031375" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/3125c7a7-e866-4655-a574-a49c8172d62d" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/3125c7a7-e866-4655-a574-a49c8172d62d" alt="7 lakes" class="photo-preview">
+</a>
+
+
+<a href="https://github.com/user-attachments/assets/f92509ed-92f4-4eac-9b7b-983b731c34e2" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/f92509ed-92f4-4eac-9b7b-983b731c34e2" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/cb7a8878-72fd-45ff-86ad-8ddd3926c8e4" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/cb7a8878-72fd-45ff-86ad-8ddd3926c8e4" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/9ca8e736-329e-4f79-aa0a-9bb624a985ce" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/9ca8e736-329e-4f79-aa0a-9bb624a985ce" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/9f54490d-3dc5-4710-a609-9ea22b8fa8e6" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/9f54490d-3dc5-4710-a609-9ea22b8fa8e6" alt="7 lakes" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/7b981b33-c09c-4de2-a538-dec523a7383a" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/7b981b33-c09c-4de2-a538-dec523a7383a" alt="7 lakes" class="photo-preview">
+</a>
+
+
+
+
 
 
 #### Variations
