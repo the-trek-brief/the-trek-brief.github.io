@@ -12,19 +12,15 @@ map_note: Your trek map will go here, with the route and pins for passes, camps,
 
 ## Getting there
 
-Acclimatise in Cusco
+Acclimatise in Cusco.Give yourself time to explore the city, then use it as a base for acclimatisation hikes such as Rainbow Mountain or Palcoyo.
 
-Start in Cusco. Give yourself time to explore the city, then use it as a base for acclimatisation hikes such as Rainbow Mountain or Palcoyo.
+If you are reasonably fit, allow at least two days at altitude before starting Ausangate. The trek begins above ""4,300 m / 14,000 ft"".
 
-If you are reasonably fit, allow at least two days at altitude before starting Ausangate. The trek begins above 4,300 m / 14,000 ft.
+""Cusco to Tinki:""
 
-Cusco to Tinki
+Take a morning bus from Cusco to Tinki. There is no single main bus terminal: each company has its own small station, but they are grouped around this area. Arrive around ""6–7 am"", look for buses to Tinki, and ask around. Buses marked Ocongate also pass through Tinki.
 
-Take a morning bus from Cusco to Tinki.
-
-There is no single main bus terminal: each company has its own small station, but they are grouped around this area. Arrive around 6–7 am, look for buses to Tinki, and ask around. Buses marked Ocongate also pass through Tinki.
-
-The bus costs less than 20 soles and takes roughly 3–4 hours.
+The bus costs less than ""20 soles"" and takes roughly ""3–4 hours"".
 
 ### Route
 
