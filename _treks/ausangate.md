@@ -17,9 +17,10 @@ If you are reasonably fit, allow at least two days at altitude before starting A
 
 **Cusco to Tinki:**
 
-Take a morning bus from Cusco to Tinki. There is no single main bus terminal: each company has its own small station, but they are grouped around this area. Arrive around **6–7 am**, look for buses to Tinki, and ask around. Buses marked Ocongate (town before Tinki) might end their trip in Tinki so ask first.
+Take a morning bus from Cusco to [Tinki](https://maps.app.goo.gl/br9GMu6bBvnX42WN8). There is no single main bus terminal: each company has its own small station, but they are on this street here [this area](https://maps.app.goo.gl/tAYxEEctSktcrhn49). Arrive around **6–7 am**, look for buses to Tinki, and ask around. Buses marked Ocongate (town before Tinki) might end their trip in Tinki so ask first.
 
 The bus costs less than **20 soles** and takes roughly **3–4 hours**.
+
 
 ## Route
 
