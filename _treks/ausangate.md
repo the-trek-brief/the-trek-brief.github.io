@@ -6,7 +6,7 @@ summary: A field-guide framework for the high passes, logistical decisions, and 
 days: 5 Days
 distance: 70km 
 season: May to September
-map_note: Your trek map will go here, with the route and pins for passes, camps, water, and your viewpoint.
+map_note: map_data: /assets/ausangate.geojson
 ---
 
 
