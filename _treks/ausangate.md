@@ -141,7 +141,7 @@ We had snow and poor weather, so we did not get the clear view.
 
 As mentioned above - visit the view point [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6). It's totaly better to visit it rather than to descend to lakes and walk by them. 
 From here it's a quick descent to Pacchanta. You will meet a lot of people going up to 7 lakes for a day hike. In Pacchanta you can get some food.  
-In Pacchanta, get food at any restaurant or hotel, then ask them to arrange a taxi to Tinki. They can call one for you; expect it to arrive in **30–40 minutes**. A full car costs roughly **30–50 soles**.
+In Pacchanta, get food at any restaurant or hotel, ask them to arrange a taxi to Tinki. They can call one for you; expect it to arrive in **30–40 minutes**. A full car costs roughly **30–50 soles**.
 Ask the driver to drop you at [Tinki’s main square](https://maps.app.goo.gl/zm3b3VBtyiSSiCTH9), where you originally arrived. From there, ask around for the bus back to Cusco.
 
 *It snowed for us overnight. These were the views*
@@ -174,6 +174,26 @@ Ask the driver to drop you at [Tinki’s main square](https://maps.app.goo.gl/zm
 <a href="https://github.com/user-attachments/assets/ff57ae6d-32e4-4ab3-adec-81900e53ca0f" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/ff57ae6d-32e4-4ab3-adec-81900e53ca0f" alt="7 lakes" class="photo-preview">
 </a>
+
+
+
+#### Variations
+
+It is possible to add rainbow moutain into the hike. From Apachina pass drop in the valley and keep right. It is still possible to do this within 4 nights and 5 days actually. 
+I've heard it wasn't really worth it though. Plus if you do acclimatization hikes Rainbow mountain is a strong option. 
+It is also possible to make it a day shorter if you decide to push and can combine two days into one.  
+
+#### Water
+
+Water is abundant throughout the trek. I never carried more than 1 liter, but I made sure I always had that full liter with me before setting out.
+
+#### Permits
+
+No permits are required for this hike but have to pay locals that collect the fee. Make sure they give you a ticket.
+
+#### Crowd
+
+This hike is not busy at all. Met just a few other backpackers and two guided groups. It is busy at Pacchanta due to amount of day hikers going to 7 lagunas. 
 
 
 ## More photos
@@ -219,9 +239,5 @@ Ask the driver to drop you at [Tinki’s main square](https://maps.app.goo.gl/zm
 
 
 
-
-
-#### Variations
-##### Notes
 
 
