@@ -37,12 +37,13 @@ layout: default
       button.setAttribute("aria-label", "Open map in full screen");
 
       L.DomEvent.disableClickPropagation(button);
-      L.DomEvent.on(button, "click", function () {
-        if (!document.fullscreenElement) {
-          map.getContainer().requestFullscreen();
-        } else {
-          document.exitFullscreen();
-        }
+            L.DomEvent.on(button, "click", function () {
+        const mapElement = map.getContainer();
+        const isExpanded = mapElement.classList.toggle("map-expanded");
+
+        document.body.classList.toggle("map-open", isExpanded);
+        button.textContent = isExpanded ? "Close map" : "Full screen";
+        map.invalidateSize();
       });
 
       return button;
@@ -50,7 +51,7 @@ layout: default
 
     fullscreenControl.addTo(map);
 
-    document.addEventListener("fullscreenchange", function () {
+    window.addEventListener("resize", function () {
       map.invalidateSize();
     });
 
