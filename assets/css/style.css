@@ -46,3 +46,26 @@
   font-family: "DM Sans", sans-serif;
   line-height: 1.45;
 }
+
+
+.map-fullscreen-button {
+  padding: 0.45rem 0.65rem;
+  border: 1px solid #d8d1c5;
+  border-radius: 4px;
+  background: #fffdf8;
+  color: #214f46;
+  font-family: "DM Sans", sans-serif;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.map-fullscreen-button:hover {
+  background: #f2ede4;
+}
+
+.trek-map:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  border: 0;
+  border-radius: 0;
+}
