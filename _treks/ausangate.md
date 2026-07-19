@@ -7,7 +7,7 @@ days: 5 Days
 distance: 70km 
 season: May to September
 map_data: /assets/ausangate.geojson
-share_image: https://github.com/user-attachments/assets/36ab2ab9-716f-4a88-966a-aa888494dd35
+share_image: https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038
 ---
 
 
