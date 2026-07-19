@@ -11,8 +11,14 @@ share_image: https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-
 description: "Independent 5-day Ausangate Circuit trek guide in Peru: Cusco–Tinki transport, Pacchanta start, Apachita Pass (Abra Apachita), camps, fees, water, route options and map."
 ---
 
+### At a glance
 
-## Getting there
+The Ausangate Circuit is very possible to do independently, but the practical details are scattered: getting from Cusco to the trailhead, choosing the better start at Pacchanta, knowing where the main passes and camps are, and deciding between route alternatives.
+
+This guide focuses on those decisions. It follows a 5-day circuit starting and finishing in Pacchanta (explains why not Upis), with notes on transport, fees, water, camps, passes, and viewpoints that are easy to miss.
+
+
+### Getting there
 
 Acclimatise in Cusco. Give yourself time to explore the city, then use it as a base for acclimatisation hikes such as Rainbow Mountain or Palcoyo.
 If you are reasonably fit, allow at least two days at altitude before starting Ausangate. The trek begins above **4,300 m / 14,000 ft**.
@@ -24,7 +30,7 @@ Take a morning bus from Cusco to [Tinki](https://maps.app.goo.gl/br9GMu6bBvnX42W
 The bus costs less than **20 soles** and takes roughly **3–4 hours**.
 
 
-## Route
+### Route
 
 ### **Day 1** Cusco-Tinki-to Laguna Pucacocha
 Most online guides suggest travelling from Tinki to Upis, then walking to Upis Campground. This is the route I took, and I would not choose it again.
