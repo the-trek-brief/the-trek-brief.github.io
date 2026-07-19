@@ -8,6 +8,7 @@ distance: 70km
 season: May to September
 map_data: /assets/ausangate.geojson
 share_image: https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038
+description: Independent 5-day Ausangate Circuit trek guide in Peru: Cusco–Tinki transport, Pacchanta start, Apachita Pass (Abra Apachita), camps, fees, water, route options and map.
 ---
 
 
