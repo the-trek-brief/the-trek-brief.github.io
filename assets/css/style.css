@@ -74,13 +74,22 @@ body.map-open {
 }
 
 .trek-map.map-expanded {
-  position: fixed;
-  z-index: 9999;
-  inset: 0;
-  width: 100vw;
-  height: 100dvh;
+  position: fixed !important;
+  top: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  z-index: 99999;
+  width: 100vw !important;
+  max-width: none !important;
+  height: 100vh !important;
+  height: 100dvh !important;
   border: 0;
   border-radius: 0;
+}
+
+.trek-map.map-expanded .leaflet-control-container {
+  z-index: 100000;
 }
 .umap-symbol-marker {
   background: none;
