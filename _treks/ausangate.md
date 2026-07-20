@@ -59,7 +59,7 @@ Camp for your first night at **Laguna Pucacocha**. There camping area is here [h
 
 ### **Day 2.**  Laguna Pucacocha to Laguna Ausangate. 8,3km
 
-The next day begins with the climb to **Apachita Pass (Abra Apachita)** at **4,900 m / 16,000 ft**. This is one of the essential views of the trek.
+The next day begins with the climb to **Apachita Pass (Abra Apachita)**  <a href="#trek-map" data-map-point="Apachita pass">See Apachita Pass on the map</a> at **4,900 m / 16,000 ft**. This is one of the essential views of the trek.
 
 From the campsite, it is roughly **3.6 km** and **350 m / 1,200 ft** of ascent to the pass. We started around 7am. 10am were at Apachita pass. 
 When I crossed, two local women were selling soda, snacks, beer, and souvenirs at the top.
