@@ -77,8 +77,11 @@ layout: default
     .replace(".svg", "");
 
   const symbols = {
-    photo: "📷",
-    if (iconName === "photo") {
+  photo: "📷",
+  camping: "⛺"
+};
+
+if (iconName === "photo") {
   return L.marker(latlng, {
     icon: L.icon({
       iconUrl: "{{ '/assets/camera-marker.png' | relative_url }}",
@@ -89,10 +92,8 @@ layout: default
     })
   });
 }
-    camping: "⛺"
-  };
 
-           if (iconName === "camping") {
+if (iconName === "camping") {
   return L.marker(latlng, {
     icon: L.icon({
       iconUrl: "{{ '/assets/tent-marker.png' | relative_url }}",
