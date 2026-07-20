@@ -136,17 +136,17 @@ if (iconName === "camping") {
           onEachFeature: function (feature, layer) {
             const name = feature.properties?.name;
             const description = feature.properties?.description;
-            if (name || description) {
+                 if (name || description) {
               layer.bindPopup(
                 (name ? "<strong>" + name + "</strong>" : "") +
                 (description ? "<br>" + description : "")
               );
             }
-          }
 
-if (name && layer.getLatLng) {
-  mapPoints[name] = layer;
-}
+            if (name && layer.getLatLng) {
+              mapPoints[name] = layer;
+            }
+          }
 
           
         }).addTo(map);
