@@ -33,6 +33,12 @@ The bus costs less than **20 soles** and takes roughly **3–4 hours**.
 ### Route
 
 ### **Day 1.** Cusco-Tinki-to Laguna Pucacocha. 13km.
+
+
+<a href="https://github.com/user-attachments/assets/f3481f7c-2277-4ce4-aad9-41941fa914f7" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/f3481f7c-2277-4ce4-aad9-41941fa914f7" alt="Ausangate day 1" class="photo-preview">
+</a>
+
 Most online guides suggest travelling from Tinki to Upis, then walking to Upis Campground. This is the route I took, and I would not choose it again.
 
 From Tinki, you need to arrange a ride by asking around the square where the bus drops you off, or through your hostel/agency/find online etc. Local transport can take you only as far as [this point near Upis](https://maps.app.goo.gl/YnmvBLRyoywuiZEE9), possibly with a small local entry fee. From there, it is still a **7.5 km walk on a gravel road** to [Upis Campground](https://maps.app.goo.gl/izbifJhmHLqucNbG7): [road route](https://maps.app.goo.gl/bQKd2RHWTZiBZwb37).
@@ -58,6 +64,13 @@ Camp for your first night at **Laguna Pucacocha**. There camping area is here [h
 
 
 ### **Day 2.**  Laguna Pucacocha to Laguna Ausangate. 8,3km
+
+
+<a href="https://github.com/user-attachments/assets/a12f8e51-9cc6-45ad-9fee-55c5aeef8e4f" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/a12f8e51-9cc6-45ad-9fee-55c5aeef8e4f" alt="Ausangate day 2" class="photo-preview">
+</a>
+
+
 
 The next day begins with the climb to **Apachita Pass (Abra Apachita)**  <a href="#trek-map" data-map-point="Apachita pass">See Apachita Pass on the map</a> at **4,900 m / 16,000 ft**. This is one of the essential views of the trek.
 
@@ -95,6 +108,12 @@ At the campground, expect local fees of around **20 soles**.
 
 ### Day 3. Laguna Ausangate to Surapata campground. 10,7km
 
+
+<a href="https://github.com/user-attachments/assets/b13df462-b753-4cbb-8cfe-95deed50fcc8" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/b13df462-b753-4cbb-8cfe-95deed50fcc8" alt="Ausangate day 3" class="photo-preview">
+</a>
+
+
 From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,100 m. This is not an easy ascent, but the views are outstanding.
 
 *Looking back towards where we came from. Ausangate laguna hidden on the right as well as Apuchata pass, route we took previous day is on the left. Rainbow Mountain far away on the left* 
@@ -129,6 +148,12 @@ Then you will camp at Surapata campground. There is a hut for a local who will c
 
 ### Day 4. Surapata campground to 7 lakes. 8,8km
 
+
+<a href="https://github.com/user-attachments/assets/9d267ee9-c106-4045-b896-a7b6f398caa0" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/9d267ee9-c106-4045-b896-a7b6f398caa0" alt="Ausangate day 4" class="photo-preview">
+</a>
+
+
 From Surapata campground you will go up Jampa pass. Which is relatively not hard ascent. From 4600m slowly to 5050m. Magnificent views on the right but not very lucky for us as weather was turning bad.
 
 *approaching Jampa pass*
@@ -146,6 +171,11 @@ From the [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6), you can s
 We had snow and poor weather, so we did not get the clear view.
 
 ### Day 5. 7 lakes to Pacchanta-Tinki-Cusco. 9,4km
+
+
+<a href="https://github.com/user-attachments/assets/1dc17950-0d33-4579-8e6c-ff961e0213c9" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/1dc17950-0d33-4579-8e6c-ff961e0213c9" alt="Ausangate day 5" class="photo-preview">
+</a>
 
 As mentioned above - visit the view point [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6). It's totaly better to visit it rather than to descend to lakes and walk by them. 
 From here it's a quick descent to Pacchanta. You will meet a lot of people going up to 7 lakes for a day hike. In Pacchanta you can get some food.  
