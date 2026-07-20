@@ -70,15 +70,35 @@ layout: default
             };
           },
           pointToLayer: function (feature, latlng) {
-            const options = feature.properties?._umap_options || {};
-            return L.circleMarker(latlng, {
-              radius: 8,
-              color: "#ffffff",
-              weight: 2,
-              fillColor: options.color || "#214f46",
-              fillOpacity: 1
-            });
-          },
+  const options = feature.properties?._umap_options || {};
+  const iconPath = options.iconUrl
+    ? (options.iconUrl.startsWith("http")
+        ? options.iconUrl
+        : "https://umap.openstreetmap.fr" + options.iconUrl)
+    : null;
+
+  if (iconPath) {
+    return L.marker(latlng, {
+      icon: L.divIcon({
+        className: "umap-symbol-marker",
+        html: '<span class="umap-symbol-disc" style="--marker-color: ' +
+          (options.color || "#214f46") +
+          '; --marker-icon: url(\'' + iconPath + '\')"><i></i></span>',
+        iconSize: [32, 32],
+        iconAnchor: [16, 16],
+        popupAnchor: [0, -18]
+      })
+    });
+  }
+
+  return L.circleMarker(latlng, {
+    radius: 8,
+    color: "#ffffff",
+    weight: 2,
+    fillColor: options.color || "#214f46",
+    fillOpacity: 1
+  });
+},
           onEachFeature: function (feature, layer) {
             const name = feature.properties?.name;
             const description = feature.properties?.description;
