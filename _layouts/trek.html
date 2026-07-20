@@ -69,21 +69,26 @@ layout: default
               dashArray: options.dashArray || null
             };
           },
-          pointToLayer: function (feature, latlng) {
+         pointToLayer: function (feature, latlng) {
   const options = feature.properties?._umap_options || {};
-  const iconPath = options.iconUrl
-    ? (options.iconUrl.startsWith("http")
-        ? options.iconUrl
-        : "https://umap.openstreetmap.fr" + options.iconUrl)
-    : null;
+  const iconName = (options.iconUrl || "")
+    .split("/")
+    .pop()
+    .replace(".svg", "");
 
-  if (iconPath) {
+  const symbols = {
+    photo: "📷",
+    camping: "⛺"
+  };
+
+  if (options.iconUrl) {
     return L.marker(latlng, {
       icon: L.divIcon({
         className: "umap-symbol-marker",
         html: '<span class="umap-symbol-disc" style="--marker-color: ' +
-          (options.color || "#214f46") +
-          '; --marker-icon: url(\'' + iconPath + '\')"><i></i></span>',
+          (options.color || "#214f46") + '">' +
+          (symbols[iconName] || "•") +
+          "</span>",
         iconSize: [32, 32],
         iconAnchor: [16, 16],
         popupAnchor: [0, -18]
