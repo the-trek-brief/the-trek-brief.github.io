@@ -104,6 +104,14 @@ body.map-open {
   width: 18px;
   height: 18px;
   background: #ffffff;
-  -webkit-mask: var(--marker-icon) center / contain no-repeat;
-  mask: var(--marker-icon) center / contain no-repeat;
+
+  -webkit-mask-image: var(--marker-icon);
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+
+  mask-image: var(--marker-icon);
+  mask-position: center;
+  mask-size: contain;
+  mask-repeat: no-repeat;
 }
