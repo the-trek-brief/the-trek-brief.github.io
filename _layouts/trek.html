@@ -22,6 +22,7 @@ layout: default
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const map = L.map("trek-map", { scrollWheelZoom: false });
+    const mapPoints = {};
 
     L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
   maxZoom: 17,
@@ -142,11 +143,34 @@ if (iconName === "camping") {
               );
             }
           }
+
+if (name && layer.getLatLng) {
+  mapPoints[name] = layer;
+}
+
+          
         }).addTo(map);
 
         if (routeLayer.getBounds().isValid()) {
           map.fitBounds(routeLayer.getBounds(), { padding: [30, 30] });
         }
+
+    document.querySelectorAll("[data-map-point]").forEach(function (link) {
+  link.addEventListener("click", function (event) {
+    const point = mapPoints[this.dataset.mapPoint];
+
+    if (!point) return;
+
+    event.preventDefault();
+    document.getElementById("trek-map").scrollIntoView({
+      behavior: "smooth",
+      block: "center"
+    });
+
+    map.setView(point.getLatLng(), 14);
+    point.openPopup();
+  });
+});
       });
   });
 </script>
