@@ -78,6 +78,17 @@ layout: default
 
   const symbols = {
     photo: "📷",
+    if (iconName === "photo") {
+  return L.marker(latlng, {
+    icon: L.icon({
+      iconUrl: "{{ '/assets/camera-marker.png' | relative_url }}",
+      iconSize: [34, 44],
+      iconAnchor: [17, 42],
+      popupAnchor: [0, -42],
+      className: "camera-map-icon"
+    })
+  });
+}
     camping: "⛺"
   };
 
