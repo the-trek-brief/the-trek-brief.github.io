@@ -4,7 +4,7 @@ region: Andes
 country: Peru
 summary: A field-guide framework for the high passes, logistical decisions, and your overlooked viewpoint.
 days: 5 Days
-distance: 70km 
+distance: 50km 
 season: May to September
 map_data: /assets/ausangate.geojson
 share_image: https://github.com/user-attachments/assets/8bf511ad-43f2-4e97-9bd5-d35698a27038
