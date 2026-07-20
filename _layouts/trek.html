@@ -43,6 +43,11 @@ layout: default
 
         document.body.classList.toggle("map-open", isExpanded);
         button.textContent = isExpanded ? "Close map" : "Full screen";
+              if (isExpanded) {
+  map.scrollWheelZoom.enable();
+} else {
+  map.scrollWheelZoom.disable();
+}
         map.invalidateSize();
       });
 
