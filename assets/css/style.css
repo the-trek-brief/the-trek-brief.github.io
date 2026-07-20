@@ -82,3 +82,28 @@ body.map-open {
   border: 0;
   border-radius: 0;
 }
+.umap-symbol-marker {
+  background: none;
+  border: 0;
+}
+
+.umap-symbol-disc {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  background: var(--marker-color);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+.umap-symbol-disc i {
+  display: block;
+  width: 18px;
+  height: 18px;
+  background: #ffffff;
+  -webkit-mask: var(--marker-icon) center / contain no-repeat;
+  mask: var(--marker-icon) center / contain no-repeat;
+}
