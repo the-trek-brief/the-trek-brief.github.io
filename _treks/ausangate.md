@@ -32,7 +32,7 @@ The bus costs less than **20 soles** and takes roughly **3–4 hours**.
 
 ### Route
 
-### **Day 1.** Cusco-Tinki-to Laguna Pucacocha
+### **Day 1.** Cusco-Tinki-to Laguna Pucacocha. 13km.
 Most online guides suggest travelling from Tinki to Upis, then walking to Upis Campground. This is the route I took, and I would not choose it again.
 
 From Tinki, you need to arrange a ride by asking around the square where the bus drops you off, or through your hostel/agency/find online etc. Local transport can take you only as far as [this point near Upis](https://maps.app.goo.gl/YnmvBLRyoywuiZEE9), possibly with a small local entry fee. From there, it is still a **7.5 km walk on a gravel road** to [Upis Campground](https://maps.app.goo.gl/izbifJhmHLqucNbG7): [road route](https://maps.app.goo.gl/bQKd2RHWTZiBZwb37).
@@ -57,7 +57,7 @@ Camp for your first night at **Laguna Pucacocha**. There camping area is here [h
 
 
 
-### **Day 2.**  Laguna Pucacocha to Laguna Ausangate
+### **Day 2.**  Laguna Pucacocha to Laguna Ausangate. 8,3km
 
 The next day begins with the climb to **Apachita Pass (Abra Apachita)** at **4,900 m / 16,000 ft**. This is one of the essential views of the trek.
 
@@ -93,7 +93,7 @@ At the campground, expect local fees of around **20 soles**.
   <img src="https://github.com/user-attachments/assets/d095e61e-0fc1-478e-b791-90ac99f0c88a" alt="laguna Ausangate" class="photo-preview">
 </a>
 
-### Day 3. Laguna Ausangate to Surapata campground
+### Day 3. Laguna Ausangate to Surapata campground. 10,7km
 
 From Laguna Ausangate at 4,650 m, climb to Palomani Pass (Abra Palomani) at 5,100 m. This is not an easy ascent, but the views are outstanding.
 
@@ -127,7 +127,7 @@ Then you will camp at Surapata campground. There is a hut for a local who will c
   <img src="https://github.com/user-attachments/assets/679de179-3fed-4150-b9f4-4d062997a9d1" alt="Jatunhuma, Hatun Uma" class="photo-preview">
 </a>
 
-### Day 4. Surapata campground to 7 lakes
+### Day 4. Surapata campground to 7 lakes. 8,8km
 
 From Surapata campground you will go up Jampa pass. Which is relatively not hard ascent. From 4600m slowly to 5050m. Magnificent views on the right but not very lucky for us as weather was turning bad.
 
@@ -145,7 +145,7 @@ This is an **absolute must-do** viewpoint. If you have time, visit it on the aft
 From the [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6), you can see the entire landscape around you and all of the lakes in the area as well as Ausangate mountain. For the full effect, see [the view on a clear sunny day](https://maps.app.goo.gl/yyPa47onHxK6A2jDA).
 We had snow and poor weather, so we did not get the clear view.
 
-### Day 5. 7 lakes to Pacchanta-Tinki-Cusco
+### Day 5. 7 lakes to Pacchanta-Tinki-Cusco. 9,4km
 
 As mentioned above - visit the view point [ridge viewpoint](https://maps.app.goo.gl/Y98BFyKZfVMXWeVj6). It's totaly better to visit it rather than to descend to lakes and walk by them. 
 From here it's a quick descent to Pacchanta. You will meet a lot of people going up to 7 lakes for a day hike. In Pacchanta you can get some food.  
