@@ -4,9 +4,9 @@ title: Huayhuash Trek
 region: Andes
 country: Peru
 summary: A practical independent trekking guide to the Huayhuash Circuit.
-days:
-distance:
-season:
+days: 8-11
+distance: 110-135km
+season: May to September 
 map_data: /assets/huayhuash.geojson
 description: "Independent Huayhuash Trek guide for Peru: transport, route options, campsites, passes, fees, water, food and practical logistics."
 ---
