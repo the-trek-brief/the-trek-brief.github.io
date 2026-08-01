@@ -38,6 +38,19 @@ There is public transport from Huaraz to the Huayhuash trailheads - Huaraz to Ch
 
 ## Route
 
+### Day 1 — Quartelhuain to Janca or Laguna Mitococha. 
+4–5 hours, 9 km, Ascent:550m, Descent:450m  
+
+Your transport will pass through the village of **Llamac**, where locals collect the fee and give you tickets. Keep every ticket until the end of the trek: they are checked again at the start of the hike in **Quartelhuain**.
+
+From Quartelhuain, climb towards **Cacanapunta Pass**. After the pass, some maps and guides show an “alpine” or “high route” branching to the right. There are currently physical signs telling hikers not to take it, so stay on the main trail.
+You will pass a house where another fee is collected, then reach **Janca Campground** shortly after.
+From here, you have two options:
+
+- **Stay at Janca Campground:** there is a washroom and usually other trekking groups.
+- **Continue to Laguna Mitococha:** take the trail to the right. There is no washroom, very few other tents, and plenty of dry cow poop—but the mountain views are magnificent. I suggest this if you like solitude and views
+Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** either way.
+
 ## Water
 
 ## Permits
