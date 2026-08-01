@@ -41,6 +41,10 @@ There is public transport from Huaraz to the Huayhuash trailheads - Huaraz to Ch
 ### Day 1 — Quartelhuain to Janca or Laguna Mitococha. 
 4–5 hours, 9 km, Ascent:550m, Descent:450m  
 
+<a href="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" alt="Ausangate day 1" class="photo-preview">
+</a>
+
 Your transport will pass through the village of **Llamac**, where locals collect the fee and give you tickets. Keep every ticket until the end of the trek: they are checked again at the start of the hike in **Quartelhuain**.
 
 From Quartelhuain, climb towards **Cacanapunta Pass**. After the pass, some maps and guides show an “alpine” or “high route” branching to the right. There are currently physical signs telling hikers not to take it, so stay on the main trail.
@@ -51,7 +55,13 @@ From here, you have two options:
 - **Continue to Laguna Mitococha:** take the trail to the right. There is no washroom, very few other tents, and plenty of dry cow poop—but the mountain views are magnificent. I suggest this if you like solitude and views
 Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** either way.
 
-<img width="839" height="923" alt="image" src="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" />
+<a href="https://github.com/user-attachments/assets/87bedf9f-4c70-4ca8-ac5a-67a2cfb4ff12" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/87bedf9f-4c70-4ca8-ac5a-67a2cfb4ff12" alt="Ausangate day 1" class="photo-preview">
+</a>
+
+<a href="https://github.com/user-attachments/assets/05021eb0-9e5d-4d6e-88e6-7efffa6cb68d" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/05021eb0-9e5d-4d6e-88e6-7efffa6cb68d" alt="Ausangate day 1" class="photo-preview">
+</a>
 
 
 ## Water
