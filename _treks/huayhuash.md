@@ -38,8 +38,10 @@ There is public transport from Huaraz to the Huayhuash trailheads - Huaraz to Ch
 
 ## Route
 
-## Campsites
+## Water
 
-## Food and water
+## Permits
+
+## Crowd 
 
 ## Useful tips
