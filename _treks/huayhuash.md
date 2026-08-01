@@ -13,6 +13,10 @@ description: "Independent Huayhuash Trek guide for Peru: transport, route option
 
 ## At a glance
 
+The Huayhuash Trek is an incredible, remote circuit with magnificent mountain views. You can join a guided group, but I recommend trekking independently: it gives you the flexibility to choose alternatives, adjust your pace, and wait out bad weather.
+That flexibility matters here. For example, you do not want to miss **Paso San Antonio** simply because a group has a fixed schedule and must keep moving. 
+The trek starts around **4,000 m**, so proper altitude acclimatization is essential before you begin.
+
 ## Getting there
 
 ## Route
