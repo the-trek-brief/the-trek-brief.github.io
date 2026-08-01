@@ -51,6 +51,9 @@ From here, you have two options:
 - **Continue to Laguna Mitococha:** take the trail to the right. There is no washroom, very few other tents, and plenty of dry cow poop—but the mountain views are magnificent. I suggest this if you like solitude and views
 Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** either way.
 
+<img width="839" height="923" alt="image" src="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" />
+
+
 ## Water
 
 ## Permits
