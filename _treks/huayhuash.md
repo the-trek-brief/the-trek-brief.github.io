@@ -7,6 +7,7 @@ summary: A practical independent trekking guide to the Huayhuash Circuit.
 days:
 distance:
 season:
+map_data: /assets/huayhuash.geojson
 description: "Independent Huayhuash Trek guide for Peru: transport, route options, campsites, passes, fees, water, food and practical logistics."
 ---
 
