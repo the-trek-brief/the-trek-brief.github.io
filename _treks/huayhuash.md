@@ -64,6 +64,30 @@ Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** ei
 </a>
 
 
+### Day 2 — Laguna Mitococha to Laguna Carhuacocha
+
+The normal route to **Laguna Carhuacocha** is a short day of roughly **9 km**. Do not be tempted to push on to Huayhuash Campground, though: that turns it into a long, hard day.
+
+Carhuacocha has a breathtaking view of the mountain range, and you will want time to enjoy it. You will also want time the next morning to enjoy the famous **Three Lakes** views while approaching Siula Pass—not rush past them because you are short on time.
+
+I suggest taking the **alpine route** on Day 2. It is a little harder than the normal route but gives you amazing views. It is approximately **10 km** with around **700 m of elevation gain**, so it is not too hard.
+
+The route appears as an unmaintained trail in Gaia. Go around Laguna Mitococha on the left, then climb to [this viewpoint](https://maps.app.goo.gl/Ei4wBjbnaE8BHrWn9). The [view from here is stunning](https://maps.app.goo.gl/LCjBxt7KxSdv6ML47).
+
+Check your offline navigation carefully. From the viewpoint, return to the main trail and continue towards Laguna Carhuacocha.
+
+
+<a href="https://github.com/user-attachments/assets/85c5302b-86a2-4a81-b06a-99322217a92c" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/85c5302b-86a2-4a81-b06a-99322217a92c" alt="Ausangate day 1" class="photo-preview">
+</a>
+
+View from Laguna Carhuacocha of Huayhuash range
+
+<a href="https://github.com/user-attachments/assets/8648c3ae-9d33-4c75-8a60-d9842496b69f" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/8648c3ae-9d33-4c75-8a60-d9842496b69f" alt="Ausangate day 1" class="Huayhuash range">
+</a>
+
+
 ## Water
 
 ## Permits
