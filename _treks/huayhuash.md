@@ -137,6 +137,33 @@ The view is rewarding. One of the best on the trail.
   
 
 
+### Day 5 — Elefante to Cutatambo via San Antonio Pass
+
+The climb up **San Antonio Pass** is tough, but the descent is harder: it is steep and demands care.
+
+There is an alternative route via **Santa Rosa Pass**, branching to the right. However, San Antonio gives you the iconic Huayhuash view. It is one of the defining viewpoints of the trek and is not worth skipping.
+
+View from San Antonio
+<a href="https://github.com/user-attachments/assets/ec1a9f99-7771-4dd0-aafb-9886e7f983c9" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/ec1a9f99-7771-4dd0-aafb-9886e7f983c9" alt="San Antonio Pass" class="photo-preview">
+
+If you are short on time, you can continue towards **Huayllapa** after the pass—it is a long descent from here.
+
+If you do **not** plan to follow the Day 6 continuation recommended below and instead plan to continue from Cutatambo towards **Huatiq**, use the extra time on Day 5 for a worthwhile side trip.
+
+After arriving at Cutatambo, leave your gear at camp and walk into the valley towards **Laguna Sarapococha**. The trail is easy, but not always obvious, so follow your offline navigation carefully. From the lagoon, climb [Cerro Gran Vista(on some maps), also known as Paso Yanantauri](https://maps.app.goo.gl/TxdG9tseqTy2ZAT5A), for an outstanding view of the Huayhuash Range. It is a steep climb, but the higher you go, the better the view becomes. Return to Cutatambo afterward.
+
+Here is the view when climbing towards Cerro Gran Visa/Paso Yanantauri
+
+<a href="https://github.com/user-attachments/assets/67fbee6f9d-b40d-4bce-bcab-e2aa5d3d6a50" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/fbee6f9d-b40d-4bce-bcab-e2aa5d3d6a50" alt="Huayhuash range" class="photo-preview">
+  
+
+### Day 5 — Elefante to Cutatambo via San Antonio Pass
+
+
+
+
 
 ## Water
 
