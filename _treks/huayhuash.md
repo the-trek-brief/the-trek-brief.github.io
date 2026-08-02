@@ -144,8 +144,10 @@ The climb up **San Antonio Pass** is tough, but the descent is harder: it is ste
 There is an alternative route via **Santa Rosa Pass**, branching to the right. However, San Antonio gives you the iconic Huayhuash view. It is one of the defining viewpoints of the trek and is not worth skipping.
 
 View from San Antonio
-<a href="https://github.com/user-attachments/assets/ec1a9f99-7771-4dd0-aafb-9886e7f983c9" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/ec1a9f99-7771-4dd0-aafb-9886e7f983c9" alt="San Antonio Pass" class="photo-preview">
+<a href="https://github.com/user-attachments/assets/e6aebfe2-be8a-40f1-97d9-06cfc46598bd" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/e6aebfe2-be8a-40f1-97d9-06cfc46598bd" alt="San Antonio Pass" class="photo-preview">
+
+
 
 If you are short on time, you can continue towards **Huayllapa** after the pass—it is a long descent from here.
 
