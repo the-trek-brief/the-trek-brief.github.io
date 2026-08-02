@@ -52,7 +52,7 @@ You will pass a house where another fee is collected, then reach **Janca Campgro
 From here, you have two options:
 
 - **Stay at Janca Campground:** there is a washroom and usually other trekking groups.
-- **Continue to Laguna Mitococha:** take the trail to the right. There is no washroom, very few other tents, and plenty of dry cow poop—but the mountain views are magnificent. I suggest this if you like solitude and views
+- **Continue to Laguna Mitococha:** take the trail to the right. There is no washroom, very few other tents, and plenty of dry cow poop—but the mountain views are magnificent. I suggest this if you like solitude and views.
 Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** either way.
 
 <a href="https://github.com/user-attachments/assets/87bedf9f-4c70-4ca8-ac5a-67a2cfb4ff12" target="_blank" rel="noopener">
