@@ -42,7 +42,7 @@ There is public transport from Huaraz to the Huayhuash trailheads - Huaraz to Ch
 4–5 hours, 9 km, Ascent:550m, Descent:450m  
 
 <a href="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" alt="Ausangate day 1" class="photo-preview">
+  <img src="https://github.com/user-attachments/assets/0c70c9d2-b070-4ffc-8d2a-29d8b0f7b32e" alt="Huayhuash Day 1" class="photo-preview">
 </a>
 
 Your transport will pass through the village of **Llamac**, where locals collect the fee and give you tickets. Keep every ticket until the end of the trek: they are checked again at the start of the hike in **Quartelhuain**.
@@ -56,15 +56,20 @@ From here, you have two options:
 Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** either way.
 
 <a href="https://github.com/user-attachments/assets/87bedf9f-4c70-4ca8-ac5a-67a2cfb4ff12" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/87bedf9f-4c70-4ca8-ac5a-67a2cfb4ff12" alt="Ausangate day 1" class="photo-preview">
+  <img src="https://github.com/user-attachments/assets/87bedf9f-4c70-4ca8-ac5a-67a2cfb4ff12" alt="Huayhuash day 2" class="photo-preview">
 </a>
 
 <a href="https://github.com/user-attachments/assets/05021eb0-9e5d-4d6e-88e6-7efffa6cb68d" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/05021eb0-9e5d-4d6e-88e6-7efffa6cb68d" alt="Ausangate day 1" class="photo-preview">
+  <img src="https://github.com/user-attachments/assets/05021eb0-9e5d-4d6e-88e6-7efffa6cb68d" alt="Laguna Mitococha" class="photo-preview">
 </a>
 
 
 ### Day 2 — Laguna Mitococha to Laguna Carhuacocha
+
+
+<a href="https://github.com/user-attachments/assets/d4d6b0b2-39a0-4920-9b53-4f5a8c261f5f" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/d4d6b0b2-39a0-4920-9b53-4f5a8c261f5f" alt="Huayhuash Day 2" class="photo-preview">
+</a>
 
 The normal route to **Laguna Carhuacocha** is a short day of roughly **9 km**. Do not be tempted to push on to Huayhuash Campground, though: that turns it into a long, hard day.
 
@@ -78,14 +83,59 @@ Check your offline navigation carefully. From the viewpoint, return to the main 
 
 
 <a href="https://github.com/user-attachments/assets/85c5302b-86a2-4a81-b06a-99322217a92c" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/85c5302b-86a2-4a81-b06a-99322217a92c" alt="Ausangate day 1" class="photo-preview">
+  <img src="https://github.com/user-attachments/assets/85c5302b-86a2-4a81-b06a-99322217a92c" alt="Huayhuash Day 2 Alternative" class="photo-preview">
 </a>
 
 View from Laguna Carhuacocha of Huayhuash range
 
 <a href="https://github.com/user-attachments/assets/8648c3ae-9d33-4c75-8a60-d9842496b69f" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/8648c3ae-9d33-4c75-8a60-d9842496b69f" alt="Ausangate day 1" class="Huayhuash range">
+  <img src="https://github.com/user-attachments/assets/8648c3ae-9d33-4c75-8a60-d9842496b69f" alt="View from Laguna Carhuacocha of Huayhuash" class="Huayhuash range">
 </a>
+
+
+### Day 3 — Laguna Carhuacocha to Huayhuash Campground
+5-7hrs. 15 km. Ascent 820 m.   
+
+<a href="https://github.com/user-attachments/assets/9e3082d7-6e36-486b-b9ad-8c8860292da6" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/9e3082d7-6e36-486b-b9ad-8c8860292da6" alt="Huayhuash Day 3" class="photo-preview">
+</a>
+
+This is a straightforward day, but it includes a sustained, steep climb up to **Tres Lagunas Mirador**.
+
+You will pass the spectacular **Tres Lagunas viewpoint**, then continue over **Siula Pass** before descending to Huayhuash Campground. Take your time at the viewpoint—the views over the three lakes and surrounding peaks are one of the highlights of the trek.
+
+
+<a href="https://github.com/user-attachments/assets/54b5c944-d561-4aa9-ba9c-a51445472380" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/54b5c944-d561-4aa9-ba9c-a51445472380" alt="Tres lagunas" class="photo-preview">
+</a>
+
+### Day 4 — Huayhuash Campground to Elefante via Trapecio Pass
+12 km. Ascent: 700 m. Descent:550 m  
+
+<a href="https://github.com/user-attachments/assets/7407d936-134c-4a32-ab3f-c91fa2fa56d1" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/7407d936-134c-4a32-ab3f-c91fa2fa56d1" alt="Huayhuash day 4" class="photo-preview">
+</a>
+
+From Huayhuash Campground, there are two route options.
+One heads towards Viconga and its hot springs. The other crosses **Trapecio Pass** and continues to **Elefante**, making the overall trek one day shorter.
+The hot springs are tempting, but I strongly recommend the Trapecio route. It gives you two completely different, unforgettable views that are among the highlights of the entire circuit. Do not skip Trapecio Pass for the hot springs.
+At Trapecio Pass, look for a short side trail that is easy to miss. Nothing about the junction suggests that a beautiful viewpoint is hiding just behind it. See the photos below for where to turn and the view you will get.
+
+View from Trapecio pass - you will follow path down
+<a href="https://github.com/user-attachments/assets/7835a6bb-c8a8-423d-819b-69eb094ff370" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/7835a6bb-c8a8-423d-819b-69eb094ff370" alt="Huayhuash day 4" class="photo-preview">
+
+When you climb Trapecio pass, take a side trail to the right and go to the end. You can leave your backpack. 
+
+<a href="https://github.com/user-attachments/assets/ffd4b73a-9db1-449e-b330-5b49a1b70736" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/ffd4b73a-9db1-449e-b330-5b49a1b70736" alt="Huayhuash day 4 map" class="photo-preview">
+
+The view is rewarding. One of the best on the trail. 
+
+<a href="https://github.com/user-attachments/assets/67ca0009-054e-4472-af18-58f5fc6d1bee" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/67ca0009-054e-4472-af18-58f5fc6d1bee" alt="Huayhuash from Trapecio pass" class="photo-preview">
+  
+
 
 
 ## Water
