@@ -178,21 +178,27 @@ If you do not want to go to Laguna Caramarca, leave Cutatambo towards **Huayllap
 
 You do not need to visit Huayllapa itself: the main trail turns right before the village. Go into Huayllapa only if you want to resupply or buy snacks. Otherwise, continue directly towards **Huatiq**.
 
-Some groups stay at Huayllapa, then Gashpampa, then Jahuacocha. I do not see much reason to follow that itinerary. Huatiq has a nice view and far fewer tents, and it is possible to reach the final campsite at Jahuacocha from Huatiq in one day. Gashpampa does not add much of interest.
+Some groups stay at Huayllapa, then Gashpampa, then Jahuacocha. I do not see much reason to follow that itinerary and stay at Gashpampa. Huatiq has a nice view and far fewer tents, and it is possible to reach the final campsite at Jahuacocha from Huatiq in one day. Gashpampa does not add much of interest.
 
 The one downside at Huatiq: the toilets were not working when I stayed there.
 
-### Day 7 — Laguna Caramarca to Huatiq
+### Day 7 — Laguna Caramarca to Huatiq ( Huatiaq)
 
-This is a long day, but it is straightforward: descend all the way to **Huayllapa**, then climb from Huayllapa up to **Huatiq**.
+This is a long way, but it is straightforward: descend all the way to **Huayllapa**, then climb from Huayllapa up to **Huatiq**.
 
 The descent is long, and the final ascent to Huatiq comes late in the day, so pace yourself and keep enough water for the climb.
 
-### Day 8 — Huatiq to Jahuacocha 
+### Day 8 — Huatiq (Huatiaq) to Jahuacocha
 
+This is a solid hiking day, but it does not require an all-out push.
 
+There is one viewpoint you should not miss. After **Yauche Pass**, as you begin descending, look for a side trail leading to a small ridge. It gives a breathtaking view over the Huayhuash Range—almost like a scene from *The Lord of the Rings*.
+See the map and photos below for the turn and the view.
+After Yauche Pass, there is also an alternative trail to the left that follows a ridge. Take it if you still have energy left.
 
-
+Exact coordinates are 
+<a href="https://github.com/user-attachments/assets/884fa959-d27a-4860-9f59-4d7b6938d9bd" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/884fa959-d27a-4860-9f59-4d7b6938d9bd" alt="range" class="photo-preview">
 
 ## Water
 
