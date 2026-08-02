@@ -202,15 +202,16 @@ Exact coordinates are [exact viewpoint is here](https://maps.app.goo.gl/acp1gPfq
 <a href="https://github.com/user-attachments/assets/884fa959-d27a-4860-9f59-4d7b6938d9bd" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/884fa959-d27a-4860-9f59-4d7b6938d9bd" alt="range" class="photo-preview">
 
-
-<a href="https://github.com/user-attachments/assets/assets/1334ccd5-7f20-4f89-92e0-85d7becbdb42" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/assets/1334ccd5-7f20-4f89-92e0-85d7becbdb42" alt="range" class="photo-preview">
+<a href="https://github.com/user-attachments/assets/140d0d0a-1c99-49b3-b330-1c1e2c4ecd0d" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/140d0d0a-1c99-49b3-b330-1c1e2c4ecd0d" alt="range" class="photo-preview">
 
   
 The view - (I didn't capture the best photo)
 
-<a href="https://github.com/user-attachments/assets/assets/ea10891b-eabc-4a0f-a001-e9615b1c6b21" target="_blank" rel="noopener">
-  <img src="https://github.com/user-attachments/assets/assets/ea10891b-eabc-4a0f-a001-e9615b1c6b21" alt="range" class="photo-preview">
+<a href="https://github.com/user-attachments/assets/c0e60042-5e4f-46d8-a003-21ccb5d65499" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/c0e60042-5e4f-46d8-a003-21ccb5d65499" alt="Huayhuash day 6" class="photo-preview">
+
+
 
 
 
