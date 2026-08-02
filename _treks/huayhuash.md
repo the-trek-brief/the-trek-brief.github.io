@@ -68,7 +68,7 @@ Choose whichever camp suits you, but make sure you visit **Laguna Mitococha** ei
 
 The normal route to **Laguna Carhuacocha** is a short day of roughly **9 km**. Do not be tempted to push on to Huayhuash Campground, though: that turns it into a long, hard day.
 
-Carhuacocha has a breathtaking view of the mountain range, and you will want time to enjoy it. You will also want time the next morning to enjoy the famous **Three Lakes** views while approaching Siula Pass—not rush past them because you are short on time.
+Carhuacocha has a breathtaking view of the mountain range, and you will want time to enjoy it. You will also want time the next morning to enjoy the famous **Three Lakes** views while approaching Siula Pass—not rush past them because you are short on time. But if you are short on time - yes you can push to Huayhuash camp in one day.  
 
 I suggest taking the **alpine route** on Day 2. It is a little harder than the normal route but gives you amazing views. It is approximately **10 km** with around **700 m of elevation gain**, so it is not too hard.
 
