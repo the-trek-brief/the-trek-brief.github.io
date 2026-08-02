@@ -159,7 +159,36 @@ Here is the view when climbing towards Cerro Gran Visa/Paso Yanantauri
   <img src="https://github.com/user-attachments/assets/fbee6f9d-b40d-4bce-bcab-e2aa5d3d6a50" alt="Huayhuash range" class="photo-preview">
   
 
-### Day 5 — Elefante to Cutatambo via San Antonio Pass
+
+### Day 6 — Cutatambo to Laguna Caramarca
+
+<a href="https://github.com/user-attachments/assets/d0b8bde2-1a08-4f0c-9321-c5bcd57f9856" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/d0b8bde2-1a08-4f0c-9321-c5bcd57f9856" alt="Huayhuash day 6" class="photo-preview">
+
+If you have time, spend the morning after your night at Cutatambo climbing [Cerro Gran Vista, also known as Paso Yanantauri](https://maps.app.goo.gl/TxdG9tseqTy2ZAT5A). It gives an amazing view over the Huayhuash Range.
+
+Afterward, descend into the valley and continue to camp at **Laguna Caramarca**.
+
+From here, some climbers attempt **Paso Rasac**. It is possible with microspikes and cuts roughly two days from the trek, but I would not recommend it. Taking that shortcut skips several worthwhile views along the normal route.
+
+### Alternative — Cutatambo to Huatiq
+16km. Ascent 750 Descent 700
+
+If you do not want to go to Laguna Caramarca, leave Cutatambo towards **Huayllapa**. Locals collect another fee as you approach.
+
+You do not need to visit Huayllapa itself: the main trail turns right before the village. Go into Huayllapa only if you want to resupply or buy snacks. Otherwise, continue directly towards **Huatiq**.
+
+Some groups stay at Huayllapa, then Gashpampa, then Jahuacocha. I do not see much reason to follow that itinerary. Huatiq has a nice view and far fewer tents, and it is possible to reach the final campsite at Jahuacocha from Huatiq in one day. Gashpampa does not add much of interest.
+
+The one downside at Huatiq: the toilets were not working when I stayed there.
+
+### Day 7 — Laguna Caramarca to Huatiq
+
+This is a long day, but it is straightforward: descend all the way to **Huayllapa**, then climb from Huayllapa up to **Huatiq**.
+
+The descent is long, and the final ascent to Huatiq comes late in the day, so pace yourself and keep enough water for the climb.
+
+### Day 8 — Huatiq to Jahuacocha 
 
 
 
