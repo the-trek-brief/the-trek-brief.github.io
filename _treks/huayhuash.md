@@ -8,6 +8,7 @@ days: 8-11
 distance: 110-135km
 season: May to September 
 map_data: /assets/Huayhuash.geojson
+share_image: https://github.com/user-attachments/assets/8648c3ae-9d33-4c75-8a60-d9842496b69f
 description: "Independent Huayhuash Trek guide for Peru: transport, route options, campsites, passes, fees, water, food and practical logistics."
 ---
 
