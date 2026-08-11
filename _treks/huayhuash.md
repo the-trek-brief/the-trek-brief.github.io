@@ -148,7 +148,6 @@ View from San Antonio
   <img src="https://github.com/user-attachments/assets/e6aebfe2-be8a-40f1-97d9-06cfc46598bd" alt="San Antonio Pass" class="photo-preview">
 
 
-
 If you are short on time, you can continue towards **Huayllapa** after the pass—it is a long descent from here.
 
 If you do **not** plan to follow the Day 6 continuation recommended below and instead plan to continue from Cutatambo towards **Huatiq**, use the extra time on Day 5 for a worthwhile side trip.
