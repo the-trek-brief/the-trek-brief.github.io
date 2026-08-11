@@ -251,7 +251,7 @@ Distance: 14 kmTime: roughly 4–4.5 hours
 
 As shown on the map,  there are two route choices at one point: one climbs up, while the other goes around the hill. Take the route around the hill—it avoids the unnecessary ascent.
 
-The bus from Llamac to Huaraz leaves at 11 am. Check locally for the current timetable. The [bus departure point is here](https://maps.app.goo.gl/Cc1Rni6CQmLdV4BP7), near a store.
+The bus from Llamac to Huaraz leaves at 11 am. Check locally for the current timetable. The [bus departure point is here](https://maps.app.goo.gl/Cc1Rni6CQmLdV4BP7), near a store. Bus cost is 80PEN
 
 ## Water
 
