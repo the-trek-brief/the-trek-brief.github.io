@@ -198,7 +198,6 @@ The descent is long, and the final ascent to Huatiq comes late in the day, so pa
 ### Day 8 — Huatiq (Huatiaq) to Jahuacocha
 
 
-
 <a href="https://github.com/user-attachments/assets/307e07ff-2825-4801-91c3-4eeca8891055" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/307e07ff-2825-4801-91c3-4eeca8891055" alt="Huayhuash day 8" class="photo-preview">
 
@@ -223,7 +222,7 @@ The view - (I didn't capture the best photo)
   <img src="https://github.com/user-attachments/assets/c0e60042-5e4f-46d8-a003-21ccb5d65499" alt="Huayhuash day 8" class="photo-preview">
 
 
-If you have energy you can take a trail to the left after Yauche pass and go alone a ridge for better views
+If you have energy you can take a trail to the left after Yauche pass and go along a ridge for better views
 
 <a href="https://github.com/user-attachments/assets/c0cb2d46-7585-4640-93f7-825b11d880d5" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/c0cb2d46-7585-4640-93f7-825b11d880d5" alt="Huayhuash day 8" class="photo-preview">
