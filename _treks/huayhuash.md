@@ -28,7 +28,7 @@ Depending on your arrival time and plans, you have two practical options:
 For example, Cruz del Sur leaves Lima’s Javier Prado terminal at **9:30 am** and passes Plaza Norte at approximately **10:35 am**. Always check the current timetable and terminal locations for your chosen company. There is a small fee to enter Plaza Norte terminal.
 Flights from Lima to Huaraz are also possible, but availability is seasonal.
 
-In Huaraz, try to stay away from the main roads. Cars frequently drive around honking to pedestrians to offer paid rides, which can be surprisingly annoying, including at night.
+In Huaraz, find accommodations y away from the main roads. Definitely don't stay on 3N road that goes through the town.  Cars frequently drive around honking to pedestrians to offer paid rides, which can be super annoying, including at night.
 Before starting Huayhuash, do a few acclimatization hikes around Huaraz. Good options include:
 - **Laguna 69** and **Laguna Churup** for proper hiking days.
 - **Laguna Rocotuyoc**, including a second lake and a glacier dropping into the lagoon.
