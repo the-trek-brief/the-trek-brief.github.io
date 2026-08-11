@@ -186,11 +186,22 @@ The one downside at Huatiq: the toilets were not working when I stayed there.
 
 ### Day 7 — Laguna Caramarca to Huatiq ( Huatiaq)
 
+
+<a href="https://github.com/user-attachments/assets/adffb624-f23e-400a-af71-b8b4d888f587" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/adffb624-f23e-400a-af71-b8b4d888f587" alt="Huayhuash day 7" class="photo-preview">
+
+
 This is a long way, but it is straightforward: descend all the way to **Huayllapa**, then climb from Huayllapa up to **Huatiq**.
 
 The descent is long, and the final ascent to Huatiq comes late in the day, so pace yourself and keep enough water for the climb.
 
 ### Day 8 — Huatiq (Huatiaq) to Jahuacocha
+
+
+
+<a href="https://github.com/user-attachments/assets/307e07ff-2825-4801-91c3-4eeca8891055" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/307e07ff-2825-4801-91c3-4eeca8891055" alt="Huayhuash day 8" class="photo-preview">
+
 
 This is a solid hiking day, but it does not require an all-out push.
 
