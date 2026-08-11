@@ -280,6 +280,13 @@ Always ask for a ticket and keep every ticket until the end of the trek. They ar
 
 **Approximate total: S/270** . Have extra cash. 
 
+## Temperatures and clothing
+
+With the sun out, days can feel fairly warm. I prefer hiking in a sun hoodie: you will sweat on climbs, but a T-shirt can feel too little when the occasional cold wind comes through.
+Around **6 pm**, the sun begins to set. Once you are in the shade, it gets cold quickly. At night, temperatures can drop below **0°C**, and the top of your tent may freeze.
+I used a **–5°C sleeping bag** and was comfortable with a light fleece and thin down jacket for cold evenings. Bring a rain jacket and regular hiking pants as well. You should not need much more than that.
+Trekking poles are very useful. 
+
 ## Crowd 
 Not a lot of tourists. On day 1 because everyone arrives approximately at the same time , trail will be busy on the way to the first pass. After that people generally spread out so you wont see a lot of people.
 
