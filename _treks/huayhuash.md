@@ -229,7 +229,12 @@ If you have energy you can take a trail to the left after Yauche pass and go alo
   <img src="https://github.com/user-attachments/assets/c0cb2d46-7585-4640-93f7-825b11d880d5" alt="Huayhuash day 8" class="photo-preview">
 
 
-### Day 9 — Jahuacocha - Paso Rondoy and exist
+### Day 9 — Jahuacocha - Paso Rondoy and exit
+
+<a href="https://github.com/user-attachments/assets/3ac80fb5-a5bc-4b31-9054-9987494dd58d" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/3ac80fb5-a5bc-4b31-9054-9987494dd58d" alt="Huayhuash day 8" class="photo-preview">
+
+
 
 
 
