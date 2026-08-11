@@ -280,4 +280,14 @@ Always ask for a ticket and keep every ticket until the end of the trek. They ar
 Not a lot of tourists. On day 1 because everyone arrives approximately at the same time , trail will be busy on the way to the first pass. After that people generally spread out so you wont see a lot of people.
 
 
-## Useful tips
+## Interesting information.
+
+Watch Touching the Void before the trek. It is an excellent survival documentary about Joe Simpson and Simon Yates’ near-fatal descent after climbing the west face of Siula Grande in the Cordillera Huayhuash in 1985. Described as one of top 100 documentaries and as per Guardian - the most successful British documentary. [Touching the Void](https://en.wikipedia.org/wiki/Touching_the_Void_(film))
+
+Their base camp was at Laguna Sarapococha. If you follow the Day 6 route recommended above, you will see the lagoon, the glacier connected to the incident, and Siula Grande itself.
+
+Huayhuash area isn't a national park unlike Huascarán park near Huaraz. Area belongs to local communities. In 1990s and early 2000s there were incidents of robberies. That's why communities organized to maintain trail, washrooms and because now they officially charge money area is now safe.
+
+For 2026 Season there was attempt and rumors to ban independent hikers but they are allowed. 
+
+
