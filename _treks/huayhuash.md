@@ -234,14 +234,51 @@ If you have energy you can take a trail to the left after Yauche pass and go alo
 <a href="https://github.com/user-attachments/assets/3ac80fb5-a5bc-4b31-9054-9987494dd58d" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/3ac80fb5-a5bc-4b31-9054-9987494dd58d" alt="Huayhuash day 8" class="photo-preview">
 
+You have two options for the final day.
 
+Option 1 — Via Paso Rondoy 
+Cross Paso Rondoy for one final glimpse of the Huayhuash Range, then descend to road.
 
+Distance: 12 kmElevation gain: 800 mTime: roughly 4.5–5 hours
 
+The challenge is transport. You can arrange a private ride back to Huaraz, or try to catch a vehicle returning to Huaraz after dropping off trekkers starting their hike in Quartelhuain. Transport from Huaraz drops hikers there around 10–11 am and start returning back, so you would need a very early start to make it. 
+If you miss transport, stay another night at Quartelhuain or if dont want to risk itcontinue to Llamac. Llamac is a small settlement with little to see, but it has a store, small shops, and not very good places to stay but can also camp.
+
+Option 2 — Descend directly to Llamac
+
+If you do not want to cross Paso Rondoy, descend to Llamac instead. Most people do this. 
+Distance: 14 kmTime: roughly 4–4.5 hours
+
+As shown on the map,  there are two route choices at one point: one climbs up, while the other goes around the hill. Take the route around the hill—it avoids the unnecessary ascent.
+
+The bus from Llamac to Huaraz leaves at 11 am. Check locally for the current timetable. The [bus departure point is here](https://maps.app.goo.gl/Cc1Rni6CQmLdV4BP7), near a store.
 
 ## Water
 
-## Permits
+Water is abundant throughout the Huayhuash Trek. I never carried more than **1 litre** at a time, but you need to filter or treat all water before drinking it as there are many cows in the area
+
+
+## Permits and local fees
+
+No advance permits are required for the Huayhuash Trek. However, local communities collect passage fees at several points. You may pay at a checkpoint or have someone come to your camp in the evening.
+
+Always ask for a ticket and keep every ticket until the end of the trek. They are checked repeatedly, especially around Quartelhuain and Jahuacocha.
+
+| Community / area | Approximate fee | When paid |
+|---|---:|---|
+| Llamac | S/50 | Along the road to Quartelhuain, through the window at a road gate |
+| Pocpa | S/30 | In Pocpa; this ticket and the Llamac ticket are checked at Quartelhuain |
+| Queropalca | S/40 | Just before Janca Camp on Day 1 |
+| Quishuarcancha | S/30 | Just after crossing the swing bridge out of Laguna Carhuacocha Camp |
+| Huayhuash | S/30 | At Huayhuash Camp |
+| Huayllapa | S/50 | Along the trail just before Huayllapa |
+| Cutatambo | S/10 | At Cutatambo |
+| Jahuacocha | S/30 | At Jahuacocha Lake Camp; this ticket was checked multiple times |
+
+**Approximate total: S/270** . Have extra cash. 
 
 ## Crowd 
+Not a lot of tourists. On day 1 because everyone arrives approximately at the same time , trail will be busy on the way to the first pass. After that people generally spread out so you wont see a lot of people.
+
 
 ## Useful tips
